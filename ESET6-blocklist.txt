@@ -1,5 +1,5 @@
 */sab.js
-*2o7.com*
+*2o7.net*
 *a.adroll.com*
 *ad.pitta.ne.jp*
 *ad-api-*.uliza.jp*
@@ -17,6 +17,7 @@
 *adtechjp.com*
 *advertising.com*
 *advg.jp*
+*akamaihd.net*
 *ap.octopuspop.com*
 *api.flipdesk.jp*
 *api.unthem.com*
