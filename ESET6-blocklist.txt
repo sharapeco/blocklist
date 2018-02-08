@@ -30,6 +30,7 @@
 *bktrx.com*
 *bluekai.com*
 *buysellads.com*
+*carambo.la*
 *cas.criteo.com*
 *cdn.bigmining.com*
 *cdn.cxense.com*
@@ -39,12 +40,14 @@
 *d.adroll.com*
 *deqwas.net*
 *dga.jp*
+*districtm.io*
 *dlv.itmedia.jp*
 *domdex.com*
 *doubleclick.net*
 *dsum-sec.casalemedia.com*
 *edge.simplereach.com*
 *eimg.jp*
+*evyy.net*
 *exoclick.com*
 *fc.itmedia.co.jp*
 *fout.jp*
@@ -61,6 +64,7 @@
 *img.macromill.com*
 *i-mobile.co.jp*
 *impact-ad.jp*
+*impactradius.com*
 *js.ptengine.jp*
 *js.revsci.net*
 *krxd.net*
@@ -80,6 +84,7 @@
 *openx.net*
 *openxmarket.jp*
 *pixel.facebook.com*
+*pixel.watch*
 *popin.cc*
 *pubmatic.com*
 *quantumads.com*
@@ -104,6 +109,7 @@
 *textad.net*
 *thatsping.com*
 *trafficfactory.biz*
+*tynt.com*
 *widgets.outbrain.com*
 *xml.affiliate.rakuten.co.jp*
 *XXX.uliza.jp*
