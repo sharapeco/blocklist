@@ -1,9 +1,9 @@
 */sab.js
 *2o7.net*
 *a.adroll.com*
-*ad.pitta.ne.jp*
 *ad-api-*.uliza.jp*
 *ad-arata.com*
+*ad.pitta.ne.jp*
 *adb.nikkei.co.jp*
 *adcash.com*
 *addthis.com*
@@ -11,6 +11,7 @@
 *adkengage.com*
 *adlantis.jp*
 *admin.brightcove.co.jp*
+*adnxs.com*
 *adpriv.nikkei.com*
 *adresult.jp*
 *ads.yahoo.com*
@@ -26,6 +27,10 @@
 *ard.yahoo.co.jp*
 *atwola.com*
 *b11.yahoo.co.jp*
+*b3.yahoo.co.jp*
+*b8.yahoo.co.jp*
+*b90.yahoo.co.jp*
+*b91.yahoo.co.jp*
 *bidswitch.net*
 *bktrx.com*
 *bluekai.com*
@@ -60,9 +65,9 @@
 *gsspat.jp*
 *gsspcln.jp*
 *gssprt.jp*
+*i-mobile.co.jp*
 *im-apps.net*
 *img.macromill.com*
-*i-mobile.co.jp*
 *impact-ad.jp*
 *impactradius.com*
 *js.ptengine.jp*
@@ -113,9 +118,11 @@
 *widgets.outbrain.com*
 *xml.affiliate.rakuten.co.jp*
 *XXX.uliza.jp*
+*yads.c.yimg.jp*
 *yads.yahoo.co.jp*
 *ybx.yahoo.co.jp*
 *yjtag.jp*
+*yjtag.yahoo.co.jp*
 *zemanta.com*
 *ziyu.net*
 ~*amazon-adsystem.com*
