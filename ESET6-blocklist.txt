@@ -15,10 +15,13 @@
 *adpriv.nikkei.com*
 *adresult.jp*
 *ads.yahoo.com*
+*adservice.google.co.jp*
+*adservice.google.com*
 *adtechjp.com*
 *advertising.com*
 *advg.jp*
 *akamaihd.net*
+*amazon-adsystem.com*
 *ap.octopuspop.com*
 *api.flipdesk.jp*
 *api.unthem.com*
