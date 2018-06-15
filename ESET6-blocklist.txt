@@ -1,6 +1,7 @@
 */sab.js
 *2o7.net*
 *a.adroll.com*
+*a.teads.tv*
 *ad.pitta.ne.jp*
 *ad-api-*.uliza.jp*
 *ad-arata.com*
@@ -35,7 +36,7 @@
 *b90.yahoo.co.jp*
 *b91.yahoo.co.jp*
 *bidswitch.net*
-*bktrx.com*
+*bkrtx.com*
 *bluekai.com*
 *buysellads.com*
 *carambo.la*
@@ -46,6 +47,7 @@
 *cdn.pushcrew.com*
 *company-target.com*
 *coremetrics.com*
+*crwdcntrl.net*
 *d.adroll.com*
 *deqwas.net*
 *dga.jp*
@@ -76,6 +78,7 @@
 *i-mobile.co.jp*
 *impact-ad.jp*
 *impactradius.com*
+*js.gumgum.com*
 *js.ptengine.jp*
 *js.revsci.net*
 *krxd.net*
@@ -109,6 +112,7 @@
 *s.adroll.com*
 *scorecardresearch.com*
 *secure.eloqua.com*
+*secure.quantserve.com*
 *sh.adingo.jp*
 *skimresources.com*
 *socdm.com*
@@ -131,6 +135,5 @@
 *yjtag.yahoo.co.jp*
 *zemanta.com*
 *ziyu.net*
-~*amazon-adsystem.com*
 http://iwb.jp/wp-content/themes/twentyfourteen/js/functions.js*
 http://partsa.nikkei.com/parts/js/ab/rtcontrol_rcmd002_02.js
