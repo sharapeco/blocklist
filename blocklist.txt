@@ -46,9 +46,11 @@ advg.jp
 akamaihd.net
 amazon-adsystem.com
 amoad.com
+analytics.livesense.marketing
 ap.octopuspop.com
 api.flipdesk.jp
 api.push7.jp
+api.triver.jp
 api.unthem.com
 apvdr.com
 aqtracker.com
@@ -87,6 +89,7 @@ ebis.ne.jp
 eco-tag.jp
 edge.simplereach.com
 eimg.jp
+envato.market
 evyy.net
 exoclick.com
 eyeviewads.com
@@ -119,6 +122,7 @@ list-finder.jp
 loading-delivery1.com
 logly.co.jp
 logql.yahoo.co.jp
+marketo.com
 metrics.brightcove.com
 microad.jp
 moatads.com
