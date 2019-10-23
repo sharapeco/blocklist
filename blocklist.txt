@@ -34,6 +34,7 @@ ads.avocet.io
 ads.nicovideo.jp
 ads.optyczne.pl
 ads.yahoo.com
+ads.yap.yahoo.com
 adsafety.net
 adsensecustomsearchads.com
 adservice.google.co.jp
@@ -49,6 +50,7 @@ akamaihd.net
 amazon-adsystem.com
 amoad.com
 analytics.livesense.marketing
+aolp.jp
 ap.octopuspop.com
 api.flipdesk.jp
 api.push7.jp
