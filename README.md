@@ -4,5 +4,6 @@
 
 次のネットワークフィルタリングソフトで使うためのルールファイルが生成できるツールも入ってるよ。
 
-- DNSAgent
+- [Unbound](https://nlnetlabs.nl/projects/unbound/about/)
+- [DNSAgent](https://github.com/stackia/DNSAgent)
 - ESET 6
