@@ -81,6 +81,7 @@ cdn.pushcrew.com
 company-target.com
 coremetrics.com
 crwdcntrl.net
+cxpublic.com
 d.adroll.com
 deliverimp.com
 deqwas.net
@@ -118,6 +119,7 @@ image.moshimo.com
 img.macromill.com
 impact-ad.jp
 impactradius.com
+js-agent.newrelic.com
 js-sec.indexww.com
 js.gumgum.com
 js.ptengine.jp
@@ -125,6 +127,7 @@ js.revsci.net
 krxd.net
 ks.yomidr.jp
 ladsp.com
+line-scdn.net
 list-finder.jp
 loading-delivery1.com
 logly.co.jp
@@ -156,6 +159,7 @@ rtax.criteo.com
 rtoaster.jp
 rubiconproject.com
 s.adroll.com
+scdn.cxense.com
 scorecardresearch.com
 secure.eloqua.com
 secure.quantserve.com
@@ -177,6 +181,7 @@ trackingapi.trendemon.com
 trafficfactory.biz
 tynt.com
 udc.yahoo.com
+webantenna.info
 webtracker.jp
 widgets.outbrain.com
 xml.affiliate.rakuten.co.jp
