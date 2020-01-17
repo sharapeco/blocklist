@@ -127,6 +127,7 @@
 *krxd.net*
 *ks.yomidr.jp*
 *ladsp.com*
+*line-apps.com*
 *line-scdn.net*
 *list-finder.jp*
 *loading-delivery1.com*
@@ -139,6 +140,7 @@
 *mtcs.nhk.or.jp*
 *nakanohito.jp*
 *native.sharethrough.com*
+*nkis.nikkei.com*
 *nr-data.net*
 *odb.outbrain.com*
 *omt.shinobi.jp*
@@ -152,6 +154,7 @@
 *pubmatic.com*
 *quantumads.com*
 *r-ad.ne.jp*
+*r.nikkei.com*
 *red.st-hatena.com/ad?*
 *revcontent.com*
 *rlcdn.com*
