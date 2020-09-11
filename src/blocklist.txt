@@ -128,7 +128,6 @@ krxd.net
 ks.yomidr.jp
 ladsp.com
 line-apps.com
-line-scdn.net
 list-finder.jp
 loading-delivery1.com
 logly.co.jp
