@@ -92,6 +92,7 @@ districtm.io
 dlv.itmedia.jp
 domdex.com
 doubleclick.net
+dsb.yahoo.co.jp
 dsum-sec.casalemedia.com
 ebis.ne.jp
 eco-tag.jp
@@ -154,6 +155,7 @@ pixel.watch
 popincdn.com
 primead.jp
 pubmatic.com
+pvtag.yahoo.co.jp
 quantumads.com
 r-ad.ne.jp
 r.nikkei.com
