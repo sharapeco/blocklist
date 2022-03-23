@@ -179,6 +179,7 @@ static.chartbeat.com
 static.criteo.net
 static.quant.jp
 stickyadstv.com
+sync-tag.karte.io
 taboola.com
 tacoda.net
 teads.tv
