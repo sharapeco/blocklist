@@ -189,6 +189,7 @@ trackingapi.trendemon.com
 trafficfactory.biz
 tynt.com
 udc.yahoo.com
+web.ssp.yahoo.com
 webantenna.info
 webtracker.jp
 widgets.outbrain.com
