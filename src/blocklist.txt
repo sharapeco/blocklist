@@ -73,6 +73,7 @@ bkrtx.com
 bluekai.com
 bttrack.com
 buysellads.com
+c2shb.pubgw.yahoo.com
 carambo.la
 cas.criteo.com
 cdn.bigmining.com
@@ -104,6 +105,7 @@ exoclick.com
 eyeviewads.com
 fc.itmedia.co.jp
 fout.jp
+g2.gumgum.com
 genieesspv.jp
 googleadservices.com
 googlesyndication.com
@@ -118,6 +120,7 @@ i-mobile.co.jp
 i.moshimo.com
 i.popincdn.com
 ib.3lift.com
+id5-sync.com
 im-apps.net
 image.moshimo.com
 img.macromill.com
@@ -139,6 +142,7 @@ loading-delivery1.com
 logly.co.jp
 logql.yahoo.co.jp
 marketo.com
+match.justpremium.com
 metrics.brightcove.com
 microad.jp
 moatads.com
@@ -182,6 +186,7 @@ static.criteo.net
 static.quant.jp
 stickyadstv.com
 sync-tag.karte.io
+sync.1rx.io
 taboola.com
 tacoda.net
 teads.tv
@@ -191,6 +196,7 @@ trackingapi.trendemon.com
 trafficfactory.biz
 tynt.com
 udc.yahoo.com
+usersync.gumgum.com
 web.ssp.yahoo.com
 webantenna.info
 webtracker.jp
