@@ -66,6 +66,7 @@ b3.yahoo.co.jp
 b8.yahoo.co.jp
 b90.yahoo.co.jp
 b91.yahoo.co.jp
+bidder.criteo.com
 bidswitch.net
 bigmining.com
 bilsyndication.com
@@ -116,6 +117,7 @@ gsspat.jp
 gsspcln.jp
 gssprt.jp
 hsadspixel.net
+htlb.casalemedia.com
 i-mobile.co.jp
 i.moshimo.com
 i.popincdn.com
