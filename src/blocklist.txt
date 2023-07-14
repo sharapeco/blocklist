@@ -1,4 +1,11 @@
 2o7.net
+a.line.me
+crs-event.line.me
+jp-col-tcp.nelo.linecorp.com
+lan.line.me
+lan-o.line.me
+epdg.epc.mnc003.mcc440.pub.3gppnetwork.org
+d2eiwnr9iocxxr.cloudfront.net
 a.adroll.com
 a.teads.tv
 aaxads.com
