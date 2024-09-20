@@ -94,7 +94,9 @@ cdn.cxense.com
 cdn.fivecdm.com
 cdn.optimizely.com
 cdn.pushcrew.com
+clarity.ms
 company-target.com
+content-loader.com
 coremetrics.com
 crwdcntrl.net
 cxpublic.com
@@ -117,6 +119,7 @@ edge.simplereach.com
 eimg.jp
 envato.market
 er.fivecdm.com
+error-report.com
 ether-pack-sg.pangle.io
 evyy.net
 exoclick.com
@@ -125,6 +128,7 @@ fc.itmedia.co.jp
 fivecdm.com
 fout.jp
 g2.gumgum.com
+geniee.jp
 genieesspv.jp
 googleadservices.com
 googlesyndication.com
@@ -134,8 +138,10 @@ gssp.asia
 gsspat.jp
 gsspcln.jp
 gssprt.jp
+hoyme.jp
 hsadspixel.net
 htlb.casalemedia.com
+html-load.com
 i-mobile.co.jp
 i.moshimo.com
 i.popincdn.com
