@@ -28,6 +28,7 @@ aax-us.amazom-adsystem.com
 aax-us-pdx.amazom-adsystem.com
 amazon-adsystem.com
 amoad.com
+anymind360.com
 app-measurement.com
 d.applovin.com
 img.applovin.com
@@ -67,6 +68,7 @@ digitaloceanspaces.com
 domdex.com
 secure.eloqua.com
 error-report.com
+report.error-report.com
 exoclick.com
 eyeviewads.com
 pixel.facebook.com
@@ -76,6 +78,7 @@ adchk.fivecdm.com
 bc2.fivecdm.com
 cdn.fivecdm.com
 er.fivecdm.com
+player.gliacloud.com
 adservice.google.com
 googleadservices.com
 googlesyndication.com
@@ -136,6 +139,7 @@ thatsping.com
 trackingapi.trendemon.com
 tynt.com
 api.unthem.com
+ad.jp.ap.valuecommerce.com
 ads.yahoo.com
 opus.analytics.yahoo.com
 jill.fc.yahoo.com
