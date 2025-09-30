@@ -87,9 +87,11 @@ googletagservices.com
 g2.gumgum.com
 js.gumgum.com
 usersync.gumgum.com
+html-load.cc
 html-load.com
 id5-sync.com
 impactradius.com
+insteadphooey.com
 js-sec.indexww.com
 match.justpremium.com
 ladsp.com
@@ -243,7 +245,6 @@ clarity.ms
 2o7.net
 accesstrade.net
 adsafety.net
-akamaihd.net
 bidswitch.net
 d2eiwnr9iocxxr.cloudfront.net
 static.criteo.net
