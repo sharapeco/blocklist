@@ -1,6 +1,7 @@
 ad-m.asia
 gssp.asia
 trafficfactory.biz
+html-load.cc
 api.popin.cc
 jp.popin.cc
 ib.3lift.com
@@ -56,6 +57,7 @@ htlb.casalemedia.com
 static.chartbeat.com
 company-target.com
 content-loader.com
+bh.contextweb.com
 coremetrics.com
 bidder.criteo.com
 cas.criteo.com
@@ -80,19 +82,20 @@ cdn.fivecdm.com
 er.fivecdm.com
 player.gliacloud.com
 adservice.google.com
+fundingchoicesmessages.google.com
 googleadservices.com
-googlesyndication.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
 googletagmanager.com
 googletagservices.com
 g2.gumgum.com
 js.gumgum.com
 usersync.gumgum.com
-html-load.cc
 html-load.com
 id5-sync.com
 impactradius.com
-insteadphooey.com
 js-sec.indexww.com
+insteadphooey.com
 match.justpremium.com
 ladsp.com
 ch-news.line-apps.com
@@ -106,6 +109,7 @@ loading-delivery1.com
 img.macromill.com
 marketo.com
 moatads.com
+odr.mookie1.com
 i.moshimo.com
 image.moshimo.com
 adns1.line.naver.com
@@ -139,6 +143,7 @@ stickyadstv.com
 taboola.com
 thatsping.com
 trackingapi.trendemon.com
+a.tribalfusion.com
 tynt.com
 api.unthem.com
 ad.jp.ap.valuecommerce.com
@@ -151,9 +156,11 @@ udc.yahoo.com
 ads.yap.yahoo.com
 zemanta.com
 red.st-hatena.com/ad?
+adtrafficquality.google
 webantenna.info
 sync.1rx.io
 ads.avocet.io
+match.prod.bidr.io
 districtm.io
 sync-tag.karte.io
 api16-log-sg.pangle-b.io
@@ -251,6 +258,7 @@ static.criteo.net
 crwdcntrl.net
 deqwas.net
 doubleclick.net
+sync-tm.everesttech.net
 evyy.net
 hsadspixel.net
 im-apps.net
