@@ -6,7 +6,10 @@ $lines = unique($lines);
 usort($lines, function($a, $b) {
 	return strcmp(invertDomain($a), invertDomain($b));
 });
-file_put_contents($path, implode("\n", $lines) . "\n", LOCK_EX);
+
+$temp = tempnam(dirname($path), 'blocklist_');
+file_put_contents($temp, implode("\n", $lines) . "\n", LOCK_EX);
+rename($temp, $path);
 
 function invertDomain(string $domain): string {
 	$parts = explode('.', $domain);
