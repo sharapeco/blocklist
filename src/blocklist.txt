@@ -48,6 +48,7 @@ bilsyndication.com
 bkrtx.com
 bluekai.com
 metrics.brightcove.com
+brochureclear.com
 bttrack.com
 buysellads.com
 mssdk-sg-bu.byteoversea.com
@@ -93,8 +94,10 @@ js.gumgum.com
 usersync.gumgum.com
 html-load.com
 id5-sync.com
+ill-fatedodd.com
 impactradius.com
 js-sec.indexww.com
+insiad.com
 insteadphooey.com
 match.justpremium.com
 ladsp.com
@@ -124,6 +127,7 @@ odb.outbrain.com
 widgets.outbrain.com
 popincdn.com
 i.popincdn.com
+providedwell.com
 pubmatic.com
 cdn.pushcrew.com
 secure.quantserve.com
@@ -154,6 +158,7 @@ c2shb.pubgw.yahoo.com
 web.ssp.yahoo.com
 udc.yahoo.com
 ads.yap.yahoo.com
+yahoolock.com
 zemanta.com
 red.st-hatena.com/ad?
 adtrafficquality.google
@@ -165,6 +170,7 @@ districtm.io
 sync-tag.karte.io
 api16-log-sg.pangle-b.io
 ether-pack-sg.pangle.io
+privacymanager.io
 ly.my.sentry.io
 adingo.jp
 sh.adingo.jp
@@ -251,6 +257,7 @@ sch.line.me
 clarity.ms
 2o7.net
 accesstrade.net
+ads-pixiv.net
 adsafety.net
 bidswitch.net
 d2eiwnr9iocxxr.cloudfront.net
