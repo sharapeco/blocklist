@@ -119,6 +119,7 @@ image.moshimo.com
 adns1.line.naver.com
 adns2.line.naver.com
 js-agent.newrelic.com
+nicelyfrom.com
 adpriv.nikkei.com
 nkis.nikkei.com
 r.nikkei.com
